@@ -3,8 +3,8 @@ import datetime
 import smtplib
 
 #Enter Authentication Details
-GMAIL_ID = 'dixitayush550@gmail.com'
-GMAIL_PSWD = 'ufyd cgoq tzum rbrn'
+GMAIL_ID = 'Your Gmail ID'
+GMAIL_PSWD = 'Your Password'
 
 
 def sendEmail(to,sub,msg):
